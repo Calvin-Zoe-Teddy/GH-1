@@ -1,1 +1,1 @@
-An USELESS file
+An USELESS file merge conflicts demo
